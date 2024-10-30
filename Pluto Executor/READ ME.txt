@@ -1,5 +1,17 @@
-MADE BY @ytz_solar on discord helped by @94to on discord!! Big credits to him
-MAKE SURE TO INCLUDE THE "bin" FOLDER IN THE DIRECTORY YOU PUT YOUR EXECUTOR .EXE IN, IT WONT WORK WITHOUT IT
+IMPORTANT READ THE STUFF BELOW!!
 
-JOIN THE DISCORD IF YOU AREN'T ALREADY: https://discord.gg/3SdU5hsAyJ
-JOIN @94to's DISCORD SERVER: https://discord.gg/XQ5jXFS5cP
+1. MAKE SURE TO INCLUDE THE "bin" FOLDER IN THE DIRECTORY YOU PUT YOUR EXECUTOR .EXE IN, IT WONT WORK WITHOUT IT
+
+2. Sometimes you may need to downgrade roblox if it doesnt inject. The version I am using is in this google drives link
+just download and you can use it. https://drive.google.com/drive/folders/1ZlZYCWFRjTN3LHTCHFCW4fy9R1x-dT1D?usp=sharing
+(to download just highlight all the files and press the download button)
+
+3. If you need help you can always add ytz_solar on discord for support on the executor or just open a ticket in the server.
+
+CREDITS:
+
+MADE BY @ytz_solar on discord you can add me if you have any problems with the executor. 
+Alternatively you can open a ticket in the discord server which the invite link is below
+
+JOIN THE DISCORD FOR UPDATES, LEAKS AND LOADSTRINGS (LOADSTRINGS = SCRIPTS. FOR EXAMPLE FLY, ESP, AIMBOT ETC) 
+IF YOU AREN'T ALREADY: https://discord.gg/plutoexecutor
