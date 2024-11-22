@@ -5,5 +5,5 @@ MAKE SURE TO INCLUDE THE "bin" FOLDER IN THE DIRECTORY YOU PUT YOUR EXECUTOR .EX
 Be sure to follow these instructions!! 
 (Press the big green code button and then press download zip file then go to your downloads and extract it!!!)
 
-JOIN THE DISCORD IF YOU AREN'T ALREADY: https://discord.gg/plutoexecutor
+JOIN THE DISCORD IF YOU AREN'T ALREADY: https://discord.gg/getpluto
 back up: https://discord.gg/3SdU5hsAyJ
