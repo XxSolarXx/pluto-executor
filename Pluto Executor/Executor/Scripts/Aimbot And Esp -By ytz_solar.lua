@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XxSolarXx/Aimbot_Esp.lua/refs/heads/main/Aimbot"))()
